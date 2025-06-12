@@ -18,7 +18,7 @@ Praticar o uso do do Docker como um ambiente de desenvolvimento e executar um pr
 
 ### **3. Resultados Obtidos**  
   3.1. saída do programa em C: 
-  ![resultadoC](imgs/C.PNG)
+  ![resultadoC](imgs/C.png)
 
 ### **4. Conclusão**  
 A tarefa proporcionou uma experiência interessante de criação de docker podendo ser aplicado para a criação de ambientes de desenvolvimento isolados, 
